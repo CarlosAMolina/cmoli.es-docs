@@ -118,7 +118,7 @@
           <mxGeometry height="39" width="37.86" x="681.14" y="360" as="geometry" />
         </mxCell>
         <mxCell id="KxzczO60mM4RnOx60oIB-50" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.script;" value="script" vertex="1">
-          <mxGeometry height="39" width="37.86" x="680.76" y="160" as="geometry" />
+          <mxGeometry height="40" width="39.24" x="680.76" y="161" as="geometry" />
         </mxCell>
         <mxCell id="KxzczO60mM4RnOx60oIB-53" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Long_shadow_web_icons-2008/python-943.svg" value="python" vertex="1">
           <mxGeometry height="38.5" width="38.5" x="760" y="281.5" as="geometry" />
