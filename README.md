@@ -1,6 +1,6 @@
 ## Introduction
 
-Docs for my web page <cmoli.es>.
+Docs for my web page <https://cmoli.es/>.
 
 ## Open diagrams
 
