@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.3.6">
   <diagram name="Página-1" id="UAzXk1vWCmATqAbV6jn9">
-    <mxGraphModel dx="983" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,9 +105,6 @@
         <mxCell id="KxzczO60mM4RnOx60oIB-44" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="280" width="20" x="429" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="KxzczO60mM4RnOx60oIB-47" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.script;" value="Bash script" vertex="1">
-          <mxGeometry height="39" width="37.86" x="360.14" y="361.25" as="geometry" />
-        </mxCell>
         <mxCell id="KxzczO60mM4RnOx60oIB-53" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Long_shadow_web_icons-2008/python-943.svg" value="Python" vertex="1">
           <mxGeometry height="38.5" width="38.5" x="718" y="361.75" as="geometry" />
         </mxCell>
@@ -134,6 +131,9 @@
         </mxCell>
         <mxCell id="H5S5gfVpBLtysLn4SZE6-17" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=light-dark(#EF8F21,#3D83B7);labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.linux;" value="" vertex="1">
           <mxGeometry height="41" width="44" x="239" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="tm3ibM3GQMB6CIAjVz-f-2" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.startup_task;pointerEvents=1;" value="Binary&lt;br&gt;(Go language)" vertex="1">
+          <mxGeometry height="44" width="43" x="357" y="356" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
